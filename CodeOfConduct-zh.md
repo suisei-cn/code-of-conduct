@@ -8,6 +8,6 @@ suisei-cn 是一个由虚拟 YouTuber 星街彗星（星街すいせい，下称
 2. 造轮子时注意数据和协议的通用性
 3. 唯一性资源（比如域名和bot id）的使用由大家一起来讨论
 
-除 GitHub 外，suisei-cn 组织的主要讨论进行在 Telegram 群 [`@suiseihosimati`](https://t.me/suiseihosimati)。
+除 GitHub 外，suisei-cn 组织的主要讨论进行在 Telegram 群 [`@Hoshimati_Suisei`](https://t.me/Hoshimati_Suisei)。
 
-[1] 此段文字摘录于 <https://t.me/suiseihosimati/24160>。
+[1] 此段文字摘录于 <https://t.me/Hoshimati_Suisei/24160>。
